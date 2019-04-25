@@ -2,10 +2,10 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>La Liga de Fútbol</title>
+    <title>Ranking de Peliculas</title>
   </head>
   <body>
-    <p>Listas de mis peliculas favoritas. Aunque soy mas de series últimamente </p>
+    <H1>Listas de las peliculas mas votadas por los amigos </H1>
 
 	<ol>
 		<li> Crash (Colisión) (2004) <img src="https://pics.filmaffinity.com/crash-188278466-msmall.jpg" alt="Crash" > </li> 
