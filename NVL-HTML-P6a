@@ -9,18 +9,18 @@
 	<img src="https://files.laliga.es/seccion_logos/laliga-h-300x300_2018.png" alt="La Liga" height="300" width="300">
 	<h2> Fecha 25/04/2019 </h2>
 	<p> A continuación se enumeran los 1o primeros equipos del ranking del campeonato de </p>
-	<li>
-		<ol> Barcelona </ol>
-		<ol> Atletico de Madrid </ol>
-		<ol> Real Madrid </ol>
-		<ol> Getafe </ol>
-		<ol> Valencia c.f. </ol>
-		<ol> Sevilla </ol>
-		<ol> Ath Bilbao </ol>
-		<ol> Alaves </ol>
-		<ol> RCD Espanyol </ol>
-		<ol> Betis </ol>
+	<ol>
+		<li> Barcelona </li>
+		<li> Atletico de Madrid </li>
+		<li> Real Madrid </li>
+		<li> Getafe </li>
+		<li> Valencia c.f. </li>
+		<li> Sevilla </li>
+		<li> Ath Bilbao </li>
+		<li> Alaves </li>
+		<li> RCD Espanyol </li>
+		<li> Betis </li>
 		
-	</li>
+	</ol>
   </body>
 </html>
