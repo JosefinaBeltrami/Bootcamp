@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>La Liga de Fútbol</title>
+  </head>
+  <body>
+    <h1>Clasificación de la Liga</h1>
+	<img src="https://files.laliga.es/seccion_logos/laliga-h-300x300_2018.png" alt="La Liga" height="300" width="300">
+	<h2> Fecha 25/04/2019 </h2>
+	<p> A continuación se enumeran los 1o primeros equipos del ranking del campeonato de </p>
+	<li>
+		<ul> Barcelona </ul>
+		<ol> Atletico de Madrid </ol>
+		<ol> Real Madrid </ol>
+		<ol> Getafe </ol>
+		<ol> Valencia c.f. </ol>
+		<ol> Sevilla </ol>
+		<ol> Ath Bilbao </ol>
+		<ol> Alaves </ol>
+		<ol> RCD Espanyol </ol>
+		<ol> Betis </ol>
+		
+	</li>
+  </body>
+</html>
