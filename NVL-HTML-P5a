@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Practica sobre elemento de Imagen</title>
+  </head>
+  <body>
+    <p>En la practica probaremos el elemento vacio de imagen, con sus atributos, de titulo alternativo, tamaños</p>
+	<img src="https://infowod.com/wp-content/uploads/Chloie-Jonsson-is-a-transgender-CrossFit-athlete.-Chloie-Jonsson%E2%80%99s-Instagram.jpg" alt="Chloie Jonsson is a transgender CrossFit athlete" height="600" width="900">
+  </body>
+</html>
