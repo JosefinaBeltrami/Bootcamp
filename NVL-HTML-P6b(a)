@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>La Liga de Fútbol</title>
+  </head>
+  <body>
+    <p>Listas de mis peliculas favoritas. Aunque soy mas de series últimamente </p>
+
+	<ul>
+		<li> La ciudad de las estrellas (2016) <img src="https://pics.filmaffinity.com/la_la_land-262021831-msmall.jpg" alt="La ciudad de las estrellas" > </li> 
+		<li> El secreto de sus ojos (2009) <img src="https://pics.filmaffinity.com/el_secreto_de_sus_ojos-862971973-msmall.jpg" alt="El secreto de sus ojos" > </li> 
+		<li> Up (2009) <img src="https://pics.filmaffinity.com/up-672315222-msmall.jpg" alt="UP" > </li>
+		<li> Vengadores: Infinity War (2018) <img src="https://pics.filmaffinity.com/avengers_infinity_war-181539353-msmall.jpg" alt="Vengadores: Infinity War" > </li>
+		<li> Relatos salvajes (2014) <img src="https://pics.filmaffinity.com/relatos_salvajes-102488639-msmall.jpg" alt="Relatos salvajes" > </li>
+		<li> El señor de los anillos: <img src="https://pics.filmaffinity.com/the_lord_of_the_rings_the_return_of_the_king-178294596-msmall.jpg" alt="El señor de los anillos:" > </li>
+		<li> The Sound of Music (1965) <img src="https://pics.filmaffinity.com/the_sound_of_music-154796714-mmed.jpg" alt="The Sound of Music" > </li>
+		<li> Mary Poppins (1964) <img src="https://pics.filmaffinity.com/mary_poppins-798780385-mmed.jpg" alt="Mary Poppins" > </li>
+		<li> The Lion King (1994) <img src="https://pics.filmaffinity.com/the_lion_king-983881776-mmed.jpg" alt="El Rey Leon" > </li>
+		<li> WALL•E (2008) <img src="https://pics.filmaffinity.com/walloe-973488527-msmall.jpg" alt="WALL•E" > </li>
+		
+	</ul>
+  </body>
+</html>
