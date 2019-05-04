@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+	<link rel="stylesheet" href="NVL-CSS-P2a.css">
+    <title>Peliculas</title>
+  </head>
+  <body>
+    <p>Listas de mis peliculas favoritas. Aunque soy mas de series últimamente </p>
+
+	<ol>
+		<li> Crash (Colisión) (2004) </li> 
+		<li> Toy Story 3 (2010) </li>
+		<li> Vengadores: Infinity War (2018) </li>
+		<li> Relatos salvajes (2014)  </li>
+		<li> El señor de los anillos</li>
+		
+		
+	</ol>
+  </body>
+</html>
